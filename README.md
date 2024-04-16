@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lê Việt Anh</h1>
 <h3 align="center"> My ambition become a full-stack developer app.</h3>
-<img align="right" alt="Coding image"
-width="400"
 - ⚡ Fun fact: " I think, i fun "
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/levietanh0108" target="blank">
-</p>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/levietanh0108/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/l%C3%AA-vi%E1%BB%87t-anh-63816a277/) 
